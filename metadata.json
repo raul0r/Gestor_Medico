@@ -1,0 +1,5 @@
+{
+  "name": "Gestor Medico",
+  "description": "A SaaS platform for automating specialist medical practices. This MVP focuses on scheduling, basic electronic health records, and billing to improve efficiency and reduce no-shows.",
+  "requestFramePermissions": []
+}
